@@ -1,0 +1,4 @@
+autopep8==2.0.0
+pycodestyle==2.9.1
+segno==1.4.1
+tomli==2.0.1
